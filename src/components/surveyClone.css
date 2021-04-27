@@ -1,0 +1,90 @@
+.question {
+    margin-top: 3%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    vertical-align: middle;
+    padding: 10px;
+    color: grey;
+}
+
+.option {
+    margin-bottom: 30px;
+}
+
+.button-border {
+    border-right: 1px thick forestgreen;
+}
+
+.stepper {
+    color: red
+}
+
+.survey {
+    border: 2px solid darkred;
+    border-left: 8px solid darkred;
+    border-radius: 5px;
+    margin-bottom: 2%;
+}
+
+.numbers {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.survey-col-line {
+    border-left: 1px solid gray;
+    text-align: center;
+    padding: 0;
+}
+
+.survey-col-line-button {
+    border-left: 1px solid gray;
+    text-align: center;
+    margin: 10px;
+}
+
+.survey-titlec {
+    font-size: large;
+    vertical-align: middle;
+    padding-top: 35px;
+    padding-left: 35px;
+    min-width: 70px;
+}
+
+.option-spacing {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 5%;
+}
+
+.rotate-text {
+    color: green;
+    font-size: large;
+    font-weight: bolder;
+    position: relative;
+    float: center;
+    align-items: center;
+    place-content: center;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    text-align: start;
+    vertical-align: top;
+}
+
+.status-col {
+    float: center;
+    align-items: center;
+    place-content: center;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    min-height: 100px;
+    float: left;
+}
